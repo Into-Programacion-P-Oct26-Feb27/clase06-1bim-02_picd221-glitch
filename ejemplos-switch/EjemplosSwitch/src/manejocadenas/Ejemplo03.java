@@ -42,6 +42,8 @@ public class Ejemplo03 {
                 pais);
         
         System.out.printf("%s", cadenaFinal);
+        /* string format sirve para poder almacenar datos en una cadena tipo string
         
+        */
     }
 }
